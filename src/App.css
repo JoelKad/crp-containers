@@ -188,9 +188,7 @@
     width: 280px;
   }
 
-}
-
-.hero {
+  .hero {
   background:
     linear-gradient(
       180deg,
@@ -198,8 +196,11 @@
       rgba(255,233,168,0.95) 55%,
       rgba(255,233,168,0.25) 100%
     ),
-    url("public/images/container-bg.jpg");
+    url("/images/container-bg.jpg");
 
   background-size: cover;
   background-position: center bottom;
 }
+
+}
+
