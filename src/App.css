@@ -12,7 +12,7 @@
       rgba(255,233,168,0.35) 75%,
       rgba(255,233,168,0) 100%
     ),
-    url("public/images/container-bg.jpg");
+    url("/images/container-bg.jpg");
   background-size: cover;
   background-position: center;
   color: #0b2a5b;
